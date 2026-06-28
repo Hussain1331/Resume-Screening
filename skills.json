@@ -1,0 +1,324 @@
+{
+  "Data Scientist": [
+    "python", "r", "sql", "machine learning", "deep learning", "tensorflow",
+    "pytorch", "scikit-learn", "pandas", "numpy", "statistics",
+    "data visualization", "nlp", "a/b testing", "big data", "spark"
+  ],
+  "Data Engineer": [
+    "python", "sql", "etl", "airflow", "spark", "kafka", "hadoop",
+    "data warehousing", "snowflake", "redshift", "dbt", "data modeling",
+    "aws", "gcp", "azure", "data pipelines"
+  ],
+  "Machine Learning Engineer": [
+    "python", "tensorflow", "pytorch", "mlops", "model deployment",
+    "docker", "kubernetes", "feature engineering", "model monitoring",
+    "ci/cd", "aws sagemaker", "computer vision", "nlp", "mlflow"
+  ],
+  "Frontend Engineer": [
+    "javascript", "typescript", "react", "vue", "angular", "html", "css",
+    "tailwind", "redux", "webpack", "next.js", "responsive design",
+    "rest api", "graphql", "unit testing"
+  ],
+  "Backend Engineer": [
+    "python", "java", "node.js", "go", "sql", "nosql", "rest api",
+    "microservices", "docker", "kubernetes", "aws", "azure", "redis",
+    "message queues", "system design"
+  ],
+  "Full Stack Developer": [
+    "javascript", "typescript", "react", "node.js", "python", "sql",
+    "mongodb", "rest api", "git", "docker", "aws", "ci/cd", "html", "css"
+  ],
+  "Mobile App Developer": [
+    "swift", "kotlin", "java", "react native", "flutter", "ios",
+    "android", "xcode", "android studio", "rest api", "firebase",
+    "app store deployment", "ui design", "mobile testing"
+  ],
+  "DevOps Engineer": [
+    "docker", "kubernetes", "aws", "azure", "gcp", "terraform", "ansible",
+    "ci/cd", "jenkins", "linux", "bash", "monitoring", "prometheus",
+    "networking", "security"
+  ],
+  "Cloud Architect": [
+    "aws", "azure", "gcp", "cloud migration", "terraform", "kubernetes",
+    "network architecture", "cost optimization", "disaster recovery",
+    "iam", "serverless", "multi-cloud", "system design"
+  ],
+  "Site Reliability Engineer": [
+    "linux", "kubernetes", "monitoring", "incident response", "prometheus",
+    "grafana", "automation", "sla management", "python", "bash",
+    "load balancing", "chaos engineering", "on-call"
+  ],
+  "Cybersecurity Analyst": [
+    "network security", "siem", "penetration testing", "vulnerability assessment",
+    "incident response", "firewalls", "iso 27001", "risk assessment",
+    "encryption", "threat intelligence", "soc", "compliance"
+  ],
+  "QA / Test Engineer": [
+    "manual testing", "automated testing", "selenium", "cypress",
+    "test case design", "regression testing", "jira", "bug tracking",
+    "api testing", "performance testing", "ci/cd", "agile testing"
+  ],
+  "Database Administrator": [
+    "sql", "mysql", "postgresql", "oracle", "database tuning", "backup and recovery",
+    "replication", "indexing", "data migration", "high availability", "nosql"
+  ],
+  "Embedded Systems Engineer": [
+    "c", "c++", "microcontrollers", "rtos", "firmware", "embedded linux",
+    "circuit design", "iot", "debugging", "uart", "spi", "i2c"
+  ],
+  "Blockchain Developer": [
+    "solidity", "ethereum", "smart contracts", "web3.js", "cryptography",
+    "blockchain architecture", "rust", "consensus algorithms", "defi", "nft"
+  ],
+  "Game Developer": [
+    "unity", "unreal engine", "c++", "c#", "3d modeling", "game physics",
+    "shader programming", "level design", "animation", "multiplayer networking"
+  ],
+  "IT Support Specialist": [
+    "troubleshooting", "windows", "macos", "active directory", "networking",
+    "help desk", "hardware repair", "remote support", "ticketing systems",
+    "customer service", "office 365"
+  ],
+  "Network Engineer": [
+    "cisco", "routing and switching", "firewalls", "vpn", "tcp/ip",
+    "network monitoring", "lan/wan", "wireless networking", "network security",
+    "load balancers", "ccna"
+  ],
+  "Product Manager": [
+    "roadmap", "stakeholder management", "agile", "scrum", "user research",
+    "kpi", "a/b testing", "wireframing", "jira", "competitive analysis",
+    "go-to-market", "data analysis", "prioritization", "okrs"
+  ],
+  "Project Manager": [
+    "project planning", "agile", "scrum", "waterfall", "risk management",
+    "budgeting", "stakeholder communication", "ms project", "gantt charts",
+    "resource allocation", "pmp", "vendor management"
+  ],
+  "Business Analyst": [
+    "requirements gathering", "process mapping", "sql", "excel", "data analysis",
+    "stakeholder management", "use cases", "uml", "agile", "gap analysis",
+    "reporting", "power bi"
+  ],
+  "UI/UX Designer": [
+    "figma", "sketch", "adobe xd", "wireframing", "prototyping",
+    "user research", "usability testing", "design systems",
+    "interaction design", "accessibility", "typography", "information architecture"
+  ],
+  "Graphic Designer": [
+    "adobe photoshop", "adobe illustrator", "indesign", "branding",
+    "typography", "layout design", "color theory", "print design",
+    "logo design", "creative direction"
+  ],
+  "Content Writer": [
+    "copywriting", "seo writing", "editing", "proofreading",
+    "content strategy", "blogging", "storytelling", "research",
+    "wordpress", "style guides"
+  ],
+  "Marketing Manager": [
+    "seo", "sem", "content strategy", "social media", "email marketing",
+    "google analytics", "brand management", "campaign management",
+    "copywriting", "marketing automation", "crm", "budget management"
+  ],
+  "Digital Marketing Specialist": [
+    "seo", "sem", "ppc advertising", "google ads", "facebook ads",
+    "social media marketing", "email marketing", "analytics",
+    "conversion optimization", "content calendar"
+  ],
+  "Sales Executive": [
+    "lead generation", "crm", "salesforce", "negotiation", "account management",
+    "cold calling", "pipeline management", "b2b sales", "client relationship",
+    "forecasting", "presentation skills"
+  ],
+  "Customer Success Manager": [
+    "client onboarding", "account management", "churn reduction",
+    "customer retention", "crm", "upselling", "relationship management",
+    "product training", "escalation handling", "renewals"
+  ],
+  "Customer Support Representative": [
+    "ticketing systems", "zendesk", "communication skills", "problem solving",
+    "live chat support", "phone support", "crm", "conflict resolution",
+    "product knowledge", "sla compliance"
+  ],
+  "HR Manager": [
+    "recruitment", "onboarding", "employee relations", "performance management",
+    "compensation and benefits", "hris", "talent acquisition", "labor law",
+    "training and development", "conflict resolution"
+  ],
+  "Recruiter": [
+    "sourcing", "interviewing", "ats systems", "candidate screening",
+    "linkedin recruiter", "employer branding", "offer negotiation",
+    "talent pipeline", "boolean search", "onboarding coordination"
+  ],
+  "Finance Manager": [
+    "financial planning", "budgeting", "forecasting", "financial modeling",
+    "variance analysis", "excel", "erp systems", "cost control",
+    "cash flow management", "reporting"
+  ],
+  "Accountant": [
+    "bookkeeping", "accounts payable", "accounts receivable", "gaap",
+    "tax preparation", "reconciliation", "quickbooks", "excel",
+    "financial statements", "auditing"
+  ],
+  "Financial Analyst": [
+    "financial modeling", "valuation", "excel", "forecasting",
+    "variance analysis", "investment analysis", "budgeting",
+    "data analysis", "reporting", "powerpoint"
+  ],
+  "Investment Banking Analyst": [
+    "valuation", "financial modeling", "m&a", "due diligence",
+    "pitch books", "excel", "capital markets", "lbo modeling",
+    "comparable company analysis", "client presentations"
+  ],
+  "Legal Counsel": [
+    "contract drafting", "legal research", "compliance", "negotiation",
+    "litigation support", "regulatory filings", "due diligence",
+    "intellectual property", "corporate law", "risk management"
+  ],
+  "Paralegal": [
+    "legal research", "document review", "case management", "drafting pleadings",
+    "filing court documents", "client communication", "discovery process",
+    "westlaw", "lexisnexis", "compliance documentation"
+  ],
+  "Operations Manager": [
+    "process improvement", "supply chain coordination", "budgeting",
+    "team leadership", "vendor management", "kpi tracking",
+    "inventory management", "logistics", "lean six sigma", "scheduling"
+  ],
+  "Supply Chain Manager": [
+    "logistics", "procurement", "inventory management", "demand forecasting",
+    "vendor negotiation", "erp systems", "warehouse management",
+    "transportation management", "supplier relationship management"
+  ],
+  "Procurement Specialist": [
+    "vendor sourcing", "contract negotiation", "purchase orders",
+    "cost analysis", "supplier evaluation", "inventory management",
+    "erp systems", "rfp management"
+  ],
+  "Office Administrator": [
+    "scheduling", "office management", "ms office", "calendar management",
+    "travel coordination", "filing systems", "vendor coordination",
+    "correspondence", "event planning"
+  ],
+  "Executive Assistant": [
+    "calendar management", "travel planning", "confidentiality",
+    "meeting coordination", "correspondence", "expense reporting",
+    "stakeholder communication", "ms office", "event coordination"
+  ],
+  "Teacher / Educator": [
+    "curriculum development", "lesson planning", "classroom management",
+    "student assessment", "differentiated instruction", "e-learning tools",
+    "communication skills", "parent-teacher coordination"
+  ],
+  "Instructional Designer": [
+    "curriculum design", "e-learning development", "lms platforms",
+    "storyboarding", "adult learning theory", "articulate storyline",
+    "assessment design", "content development"
+  ],
+  "Registered Nurse": [
+    "patient care", "vital signs monitoring", "medication administration",
+    "ehr systems", "clinical documentation", "triage", "infection control",
+    "patient education", "emergency response"
+  ],
+  "Medical Doctor / Physician": [
+    "patient diagnosis", "treatment planning", "clinical examination",
+    "ehr systems", "patient counseling", "medical research",
+    "prescription management", "emergency care"
+  ],
+  "Pharmacist": [
+    "medication dispensing", "drug interactions", "patient counseling",
+    "prescription verification", "inventory management", "compounding",
+    "regulatory compliance", "pharmacy software"
+  ],
+  "Physical Therapist": [
+    "patient assessment", "treatment planning", "rehabilitation techniques",
+    "manual therapy", "exercise prescription", "documentation",
+    "patient education", "injury prevention"
+  ],
+  "Civil Engineer": [
+    "autocad", "structural analysis", "site inspection", "project estimation",
+    "construction management", "civil 3d", "blueprint reading",
+    "regulatory compliance", "surveying"
+  ],
+  "Mechanical Engineer": [
+    "solidworks", "autocad", "thermodynamics", "product design",
+    "finite element analysis", "manufacturing processes",
+    "cad modeling", "quality control", "prototyping"
+  ],
+  "Electrical Engineer": [
+    "circuit design", "power systems", "pcb design", "autocad electrical",
+    "matlab", "control systems", "electrical testing", "schematics"
+  ],
+  "Architect": [
+    "autocad", "revit", "sketchup", "building codes", "site planning",
+    "construction documentation", "3d rendering", "project coordination",
+    "sustainable design"
+  ],
+  "Chef / Culinary Professional": [
+    "menu development", "food safety", "kitchen management",
+    "inventory control", "plating techniques", "cost control",
+    "team leadership", "haccp compliance"
+  ],
+  "Hotel / Hospitality Manager": [
+    "guest relations", "front desk operations", "event coordination",
+    "staff scheduling", "revenue management", "property management systems",
+    "customer service", "budget management"
+  ],
+  "Retail Store Manager": [
+    "inventory management", "staff scheduling", "sales targets",
+    "customer service", "visual merchandising", "pos systems",
+    "loss prevention", "team leadership"
+  ],
+  "Logistics Coordinator": [
+    "shipment tracking", "route planning", "warehouse coordination",
+    "freight management", "inventory control", "erp systems",
+    "customs documentation", "vendor communication"
+  ],
+  "Construction Project Manager": [
+    "project scheduling", "budgeting", "contractor coordination",
+    "blueprint reading", "site safety", "permits and compliance",
+    "procore", "cost estimation"
+  ],
+  "Social Media Manager": [
+    "content calendar", "social media strategy", "community management",
+    "instagram", "tiktok", "analytics", "influencer outreach",
+    "paid social campaigns", "brand voice"
+  ],
+  "Public Relations Specialist": [
+    "media relations", "press releases", "crisis communication",
+    "brand reputation management", "event planning", "stakeholder communication",
+    "media monitoring", "storytelling"
+  ],
+  "Translator / Interpreter": [
+    "bilingual communication", "translation accuracy", "cultural awareness",
+    "simultaneous interpretation", "document translation", "terminology research",
+    "proofreading", "localization"
+  ],
+  "Real Estate Agent": [
+    "property listings", "client relationship management", "negotiation",
+    "market analysis", "contract preparation", "mls systems",
+    "lead generation", "property showings"
+  ],
+  "Insurance Underwriter": [
+    "risk assessment", "policy evaluation", "underwriting guidelines",
+    "claims analysis", "actuarial data interpretation", "regulatory compliance",
+    "client communication"
+  ],
+  "Bank Teller / Branch Banker": [
+    "cash handling", "customer service", "account management",
+    "transaction processing", "compliance procedures", "cross-selling",
+    "fraud detection awareness"
+  ],
+  "Data Privacy / Compliance Officer": [
+    "gdpr", "data privacy regulations", "risk assessment", "policy development",
+    "audit coordination", "compliance training", "incident response",
+    "regulatory reporting"
+  ],
+  "Technical Writer": [
+    "documentation", "api documentation", "markdown", "content management systems",
+    "editing", "information architecture", "user guides", "style guides"
+  ],
+  "UX Researcher": [
+    "user interviews", "usability testing", "survey design", "persona development",
+    "data analysis", "journey mapping", "competitive research", "wireframing"
+  ]
+}
